@@ -15,7 +15,7 @@ The following data was gathered through initial online questionnaires, continuou
 
 ## Online Feedback Workshops - Thematic Analysis
 
-We applied thematic analysis to gather an initial set of 193 codes. The codes were filtered for relevancy. Afterwards, 16 themes were identified from the 67 remaining codes. This process was applied independently by three annotators to each workshop at first, and finally themes were merged together. Overall, we identified three major themes: *factors* that determine choice of interaction modality, *issues* that came up during use, and *feature* enhancements that users wished for.
+We applied thematic analysis to gather an initial set of 193 codes. The codes were filtered for relevancy. Afterwards, 16 themes were identified from the 67 remaining codes. This process was applied independently by three annotators to each workshop at first, and finally themes were merged together after discussing and resolving discrepencies. Overall, we identified three major themes: *factors* that determine choice of interaction modality, *issues* that came up during use, and *feature* enhancements that users wished for.
 
 We identified three major *factors* that determined participants' choice of modality: situation, task, and personality. Participants reported that they preferred voice interaction in on-the-go-situations, where their hands were occupied or their attention was peripheral.
 
@@ -46,6 +46,71 @@ Participants who encountered *issues* with voice input early often abandoned the
 Specifically, some participants reported that their attempts at using voice commands failed to transmit correctly or resulted in unexpected outcomes, such as the generation of incorrect time blocks. However, we found that without our intervention, these participants were often helped or encouraged to try again by other participants during the feedback sessions. In general, many issues that participants encountered --- whether with voice or touch interaction --- were resolved by tips from other participants.
 
 During the feedback sessions, participants proposed a variety of *feature* enhancements, which revealed interesting differences based on the interaction modality. For conversational interactions, participants tended to suggest features that involved more abstract reasoning and automation. Examples include the ability to apply one day’s schedule to another or automatically writing absence notes based on their input. Conversely, the feature suggestions related to touch interaction were primarily focused on improving ease of use and streamlining basic functions. Participants suggested quality-of-life improvements such as the ability to swipe between days instead of opening the calendar view, or implementing more precise scheduling tools, like minute-exact adjustments. These suggestions highlight participants' expectations for conversational interactions to handle more complex, higher-level tasks than touch interactions.
+
+### Details about the 16 Themes
+#### Factors Influencing Modality Choice
+
+These themes explore the reasons behind a user's choice between voice and touch interaction.
+
+* **Dragging or Speaking?**
+    The central conflict of choosing between the two main input methods.
+
+* **Situational Flexibility**
+    Users adapted their interaction style based on their environment, such as being on the move versus in a quiet office.
+
+* **Task Flexibility**
+    The choice of input method often depended on the task itself; quick, broad entries were suited for touch, while voice was preferred for precise or complex scheduling.
+
+* **Personality-Based Differences**
+    Individual habits and technological comfort levels played a significant role, with some users identifying as "voice-input people" while others stuck to manual methods.
+
+#### Issues Encountered
+
+This section covers the challenges and difficulties participants faced while using the app.
+
+* **Voice Interaction Issues**
+    General problems that arose when users attempted to use voice commands.
+
+* **LLM Issues with Time Scheduling**
+    Specific instances of the language model misinterpreting commands related to time-blocking.
+
+* **Voice Interaction Not Following Instructions Correctly**
+    Cases where the system failed to accurately execute spoken commands.
+
+* **Precision Issues with Dragging**
+    Difficulties with the touch sliders, particularly in making fine, minute-level adjustments.
+
+* **Accuracy Issues with Touch Input**
+    General inaccuracies and errors experienced when using the touch interface.
+
+#### Feature Enhancements & Suggestions
+
+This category contains the new features and improvements that users requested.
+
+* **Integrate Language Interaction with Absence Planning**
+    A desire for voice commands to handle more complex tasks, such as booking vacations or sick days.
+
+* **Swipe Between Adjacent Days**
+    A user-friendly suggestion to allow for easy navigation between days by swiping, as an alternative to using the calendar view.
+
+* **Better Feedback for Voice Input**
+    A request for the system to provide clearer confirmation and feedback after a voice command has been issued.
+
+* **Apply Times to/from Other Days**
+    The suggestion to add a feature that allows for copying a day's schedule to another day.
+
+#### General Feedback and Usage Insights
+
+These themes capture broader observations about the user experience.
+
+* **Positive Feedback**
+    General positive remarks regarding the app's functionality and overall usability.
+
+* **App is Faster than Normal Time Tracking**
+    Specific praise for the app's efficiency in comparison to other time-tracking methods.
+
+* **Usage of the Voice Interaction**
+    General comments and observations related to how and when the voice feature was utilized.
 
 ## Daily Questionnaires
 <img width="1605" height="530" alt="The figure consists of three parts. Part (a) shows an in-app questionnaire with two questions. The first question asks how difficult or easy it was to record time, with answers on a 7-point scale from &quot;very difficult&quot; to &quot;very easy.&quot; The second question asks if the user would want to continue using the system, also rated on a 7-point scale from &quot;not at all&quot; to &quot;definitely.&quot; Part (b) is a graph showing how users rated the ease of use over four weeks, with values between 1 (very difficult) and 7 (very easy). The ratings increased from the first week to the second, but after that, there were no significant differences in the ease of use ratings for the remaining weeks. Part (c) shows a boxplot of users' willingness to keep using the system. Similar to part (b), the willingness increased from the first week to the second, but there were no significant differences in the following weeks. Overall, the ratings across both measures were generally in the positive range." src="https://github.com/user-attachments/assets/ba20a537-b981-424c-bdf3-957abc3373e1" />
