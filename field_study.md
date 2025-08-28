@@ -52,64 +52,64 @@ During the feedback sessions, participants proposed a variety of *feature* enhan
 
 These themes explore the reasons behind a user's choice between voice and touch interaction.
 
-* **Dragging or Speaking? (1 Code)**
+* **Dragging or Speaking? (1 Code):**
     The central conflict of choosing between the two main input methods.
 
-* **Situational Flexibility (9 Codes)**
+* **Situational Flexibility (9 Codes):**
     Users adapted their interaction style based on their environment, such as being on the move versus in a quiet office.
 
-* **Task Flexibility (3 Codes)**
+* **Task Flexibility (3 Codes):**
     The choice of input method often depended on the task itself; quick, broad entries were suited for touch, while voice was preferred for precise or complex scheduling.
 
-* **Personality-Based Differences (8 Codes)**
+* **Personality-Based Differences (8 Codes):**
     Individual habits and technological comfort levels played a significant role, with some users identifying as "voice-input people" while others stuck to manual methods.
 
 #### Issues Encountered
 
 This section covers the challenges and difficulties participants faced while using the app.
 
-* **Voice Interaction Issues (5 Codes)**
+* **Voice Interaction Issues (5 Codes):**
     General problems that arose when users attempted to use voice commands.
 
-* **LLM Issues with Time Scheduling (1 Code)**
+* **LLM Issues with Time Scheduling (1 Code):**
     Specific instances of the language model misinterpreting commands related to time-blocking.
 
-* **Voice Interaction Not Following Instructions Correctly (3 Codes)**
+* **Voice Interaction Not Following Instructions Correctly (3 Codes):**
     Cases where the system failed to accurately execute spoken commands.
 
-* **Precision Issues with Dragging (4 Codes)**
+* **Precision Issues with Dragging (4 Codes):**
     Difficulties with the touch sliders, particularly in making fine, minute-level adjustments.
 
-* **Accuracy Issues with Touch Input (2 Codes)**
+* **Accuracy Issues with Touch Input (2 Codes):**
     General inaccuracies and errors experienced when using the touch interface.
 
 #### Feature Enhancements & Suggestions
 
 This category contains the new features and improvements that users requested.
 
-* **Integrate Language Interaction with Absence Planning (6 Codes)**
+* **Integrate Language Interaction with Absence Planning (6 Codes):**
     A desire for voice commands to handle more complex tasks, such as booking vacations or sick days.
 
-* **Swipe Between Adjacent Days (1 Code)**
+* **Swipe Between Adjacent Days (1 Code):**
     A user-friendly suggestion to allow for easy navigation between days by swiping, as an alternative to using the calendar view.
 
-* **Better Feedback for Voice Input (5 Codes)**
+* **Better Feedback for Voice Input (5 Codes):**
     A request for the system to provide clearer confirmation and feedback after a voice command has been issued.
 
-* **Apply Times to/from Other Days (3 Codes)**
+* **Apply Times to/from Other Days (3 Codes):**
     The suggestion to add a feature that allows for copying a day's schedule to another day.
 
 #### General Feedback and Usage Insights
 
 These themes capture broader observations about the user experience.
 
-* **Positive Feedback (10 Codes)**
+* **Positive Feedback (10 Codes):**
     General positive remarks regarding the app's functionality and overall usability.
 
-* **App is Faster than Normal Time Tracking (5 Codes)**
+* **App is Faster than Normal Time Tracking (5 Codes):**
     Specific praise for the app's efficiency in comparison to other time-tracking methods.
 
-* **Usage of the Voice Interaction (1 Code)**
+* **Usage of the Voice Interaction (1 Code):**
     General comments and observations related to how and when the voice feature was utilized.
 
 ## Daily Questionnaires
