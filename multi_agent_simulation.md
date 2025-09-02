@@ -27,7 +27,6 @@ The user's goal is to:
 Write only the user's instruction based on the specified persona and task.
 ```
 
----
 
 ### Time Tracking UI Agent Prompt
 
@@ -61,7 +60,6 @@ Output formatting:
 <explain constraint violations here if applicable (e.g. "However, ...")>
 ```
 
----
 
 ### Time Tracking Response Quality Evaluation Agent Prompt
 
