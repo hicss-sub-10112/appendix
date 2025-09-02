@@ -14,7 +14,8 @@ The following sections provide in-depth documentation for each of the core user 
 
 ### Cycle I: Context Exploration & Ecosystem Scoping
 
-Initial semi-structured interviews and stakeholder workshops were conducted to diagnose organizational pain points and define the scope of the assistant ecosystem. This phase focused on identifying use cases and mapping enterprise constraints related to security, governance, and user workflows.
+Initial semi-structured interviews and stakeholder workshops were conducted to diagnose organizational pain points and define the scope of the assistant ecosystem. This phase focused on identifying use cases and mapping enterprise constraints related to security, governance, and user workflows. 
+* **[Usecase Interviews](usecase_interviews.md):**: Detailed interview procedure including questions and facilitation.
 
 ### Cycle II: Interaction Co-design & Model Tailoring
 
