@@ -91,7 +91,40 @@ Finally, put a rating from 1-7 where 1 is very poor response behavior and 7 is v
 [NEW STATE]
 ```
 
+## Seed Tasks and User Behaviors
+
+To generate a diverse and realistic dataset, the multi-agent simulation combines specific user goals (**Seed Tasks**) with varied communication styles (**User Behaviors**). For each simulation run, a random task is paired with a random behavior to create a unique user instruction that the UI Agent must process.
+
+### User Agent Behaviors
+
+These behaviors define the *style* in which the User Agent communicates its intent. They simulate a wide range of real-world user communication patterns, ensuring the fine-tuned model is robust against varied inputs.
+
+  * **Minimalist Communication:** Using only keywords, incomplete sentences, or single-word commands (e.g., "Communicate using only numbers.").
+  * **Elaborate or Formal Communication:** Using detailed descriptions, multi-step instructions, or very formal language (e.g., "Communicate by describing tasks in detail.").
+  * **Casual or Slang Communication:** Using a conversational tone, friendly banter, or slang with typos (e.g., "Communicate using overly casual, conversational tone.").
+  * **Uncertainty and Indecisiveness:** Expressing doubt about times, revising earlier statements, or asking for suggestions (e.g., "Communicate with uncertainty about task durations.").
+  * **Emotional and Mood-Based Communication:** Referencing moods, using an optimistic or pessimistic tone, or mentioning distractions (e.g., "Communicate by referencing moods or emotions.").
+  * **Command-Based or Assertive Communication:** Using short, imperative commands and prioritizing tasks with confidence (e.g., "Communicate by prioritizing tasks.").
+  * **Erratic or Uncertain Behavior:** Frequently changing plans, postponing decisions, or switching between tasks rapidly (e.g., "Communicate by frequently changing your mind.").
+  * **Non-Standard or Creative Communication:** Using emojis, symbols, metaphors, or a mix of languages (e.g., "Communicate using emojis and symbols.").
+
+### Seed Tasks
+
+These tasks represent the specific *goals* a user wants to achieve within the time-tracking application. They cover a comprehensive range of actions, from simple modifications to complex, multi-step scheduling requests.
+
+  * **Modifying a Single Block:** Actions that target one specific time block (e.g., "Extend the end time of the second block by 1 hour.").
+  * **Adjusting the Entire Schedule:** Global changes that affect all time blocks (e.g., "Shift all blocks by 30 minutes earlier.").
+  * **Adding New Blocks:** Creating new entries in the schedule (e.g., "Add a coffee break in the afternoon.").
+  * **Moving or Rearranging Blocks:** Changing the order or position of blocks (e.g., "Swap the first and third blocks of the day.").
+  * **Adjusting Breaks:** Modifying the gaps between work blocks (e.g., "Consolidate multiple short breaks into one longer period.").
+  * **Setting the Schedule to Exact Values at Once:** Providing all necessary information in a single command to define a complete schedule (e.g., "Schedule my workday to run from X to X with a 1-hour lunch at X.").
+  * **Changing Types of Slots:** Converting an existing time block from one type to another (e.g., "Change the type of the first block to study from home.").
+  * **Generic:** Abstract requests that require the system to infer a concrete action (e.g., "Optimize the schedule for maximum productivity.").
+
+
+
 ## Dataset Details
+This section lists the mix of datasets used in the final finetuning of our KID-LLM, ranging from identity imprinting smalltalk and enterprise specific knowledge to use case specific datasets and general reasoning datasets.
 
 | Dataset                                                                                       | Ratio | Language | Example                                                                                                                                                            |
 | --------------------------------------------------------------------------------------------- | ----- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
