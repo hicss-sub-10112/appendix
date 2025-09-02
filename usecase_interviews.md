@@ -10,7 +10,7 @@ Two facilitators conducted all interviews together using the same semi-structure
 
 ## Interview guide
 
-The question set was defined **a priori** in the Phase-1 interview catalog and used verbatim by both facilitators. It combines open prompts (to discover tasks and pain points) with fixed rating scales (to prioritize tasks) and explicit prompts on data categories and systems (to capture governance and integration constraints). The guide comprises five domains:
+The question set was defined **a priori** in an interview catalog and used by both facilitators. It combines open prompts (to discover tasks and pain points) with fixed rating scales (to prioritize tasks) and explicit prompts on data categories and systems (to capture governance and integration constraints). The guide comprises five domains:
 
 1. **Role & activity spectrum** — “What is your role? What are your main activities?”
 2. **Task preferences** — “Which activities do you enjoy or avoid, and why?” with a fixed enjoyment code (**A**=like, **B**=neutral, **C**=dislike).
