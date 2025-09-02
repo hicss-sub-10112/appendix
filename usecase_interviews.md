@@ -1,4 +1,4 @@
-# Appendix: Semi-Structured Usecase Interviews (Cycle I)
+# Appendix: Semi-Structured Usecase Interviews
 
 ## Objective
 
