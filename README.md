@@ -30,4 +30,4 @@ This cycle focused on co-designing interaction patterns directly with users and 
 
 A four-week field study was conducted to observe real-world usage of the assistant's companion app and understand how users' choice of interaction modality (touch, text, voice) is influenced by their task and social context.
 
-  * **[Longitudinal Field Study](dield_study.md):** Detailed procedures, weekly updates, and thematic analysis from the four-week deployment in the HR department.
+  * **[Longitudinal Field Study](field_study.md):** Detailed procedures, weekly updates, and thematic analysis from the four-week deployment in the HR department.
