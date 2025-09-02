@@ -22,7 +22,8 @@ This cycle focused on co-designing interaction patterns directly with users and 
 
   * **[Participatory Design Workshop](participatory_design_workshop.md):** A co-design workshop with internal employees to generate "ideal" conversational dialogues and define core system requirements.
   * **[Comparative Lab User Study](user_study.md):** A controlled, within-subject experiment comparing the usability of the fine-tuned against a prompt-based baseline.
-  * **[Technical Evaluation](technical_evaluation.md):** A detailed explanation of the technical evaluation of the distilled LLM
+  * **[Multi Agent Simulation](multi_agent_simulation.md):** A list of agent prompts, seed tasks and user behaviors, and overall finetuning dataset composition.
+  * **[Technical Evaluation](technical_evaluation.md):** A detailed explanation of the technical evaluation of the distilled LLM.
 
 ### Cycle III: Field Deployment & Ecosystem Evaluation
 
