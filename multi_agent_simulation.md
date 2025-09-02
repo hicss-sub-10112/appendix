@@ -12,7 +12,7 @@ The following section contains the exact prompts used to instantiate different a
 Imagine you are generating an instruction for a user interacting with a system to track their working time.
 
 This is the currently tracked time state: 
-**STATE**
+[STATE]
 
 The user sees a visual interface where these time blocks are arranged from top to bottom.
  
@@ -22,7 +22,7 @@ Adopt the persona of a user with the following characteristics when writing the 
 * **Expertise Level:** 'Novice' (sound like you don't understand how the interface works or what to say)
 
 The user's goal is to: 
-**SEED TASK**
+[SEED TASK]
 
 Write only the user's instruction based on the specified persona and task.
 ```
@@ -41,10 +41,10 @@ System Constraints:
 - All breaks together have to be at least 45 minutes long if working time exceeds 9 hours
 
 Currently tracked time for the selected day:
-**STATE**
+[STATE]
 
 User Instruction:
-**INSTRUCTION**
+[INSTRUCTION]
 
 Processing Logic & Constraint Handling:
 1. Apply the instruction step-by-step based on the user's likely intent, explaining your reasoning for each step.
@@ -82,11 +82,11 @@ Consider the following aspect in your evaluation:
 Finally, put a rating from 1-7 where 1 is very poor response behavior and 7 is very good behavior. 
 
 ## initial schedule
-**INITIAL STATE**
+[INITIAL STATE]
 ## user instruction
-**INSTRUCTION**
+[INSTRUCTION]
 ## system response
-**EXPLANATION**
+[EXPLANATION]
 ## new schedule
-**NEW STATE**
+[NEW STATE]
 ```
