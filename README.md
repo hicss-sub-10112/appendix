@@ -6,7 +6,7 @@ This appendix provides detailed documentation for the studies, methodologies, an
 
 The year-long collaboration was structured into three iterative action research cycles. This process moved from initial context exploration and requirement gathering (Cycle I), to interaction co-design and model tailoring (Cycle II), and finally to in-situ field deployment and evaluation (Cycle III). The following diagram provides a high-level summary of the goals, methods, and key learnings of each cycle.
 
-<img width="1401" height="713" alt="image" src="https://github.com/user-attachments/assets/1de1f39b-7aa9-4d70-a1ae-e3030f1af57e" />
+<img width="1401" height="713" alt="image" src="https://github.com/user-attachments/assets/b0024643-5d88-4a65-bb0e-293fd823cd58" />
 
 ## Detailed Study Documentation
 
