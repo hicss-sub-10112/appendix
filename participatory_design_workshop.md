@@ -24,13 +24,13 @@ The workshop was highly generative, resulting in **60 distinct conversations**. 
 
 <img width="763" height="460" alt="image" src="https://github.com/user-attachments/assets/5adea1bf-09ff-4e4a-aada-8b046e3251a5" />
 
+*Sample conversations from the workshop created in the conversation editor. The editor allowed participants to design diverse interaction styles, from a step-by-step, assistant-led dialogue (Conversation 1) to a user-led interaction where almost all parameters are provided in a single message (Conversation 4).*
+
 ### Key Findings
 
 The analysis of the co-authored conversations revealed several critical insights that guided the subsequent design and development process.
 
 **1. Diverse and Personal Interaction Styles:** There was no single "correct" way to interact with the assistant. Participants' preferences varied significantly, generally falling into a spectrum from highly guided to highly user-driven.
-
-*Figure 1: Sample conversations from the workshop created in the conversation editor. The editor allowed participants to design diverse interaction styles, from a step-by-step, assistant-led dialogue (Conversation 1) to a user-led interaction where almost all parameters are provided in a single message (Conversation 4).*
 
   * **Assistant-Driven (Reactive):** Some participants preferred a step-by-step, question-answering flow where the assistant guided them by asking for one piece of information at a time (Figure 1, Conversation 1).
   * **User-Driven (Proactive):** Other participants preferred to lead the conversation, providing multiple or all necessary parameters in a single, dense message for maximum efficiency (Figure 1, Conversations 2 & 4).
